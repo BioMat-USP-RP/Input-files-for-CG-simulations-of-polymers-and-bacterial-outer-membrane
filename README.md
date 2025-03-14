@@ -1,0 +1,1 @@
+# Input-files-for-CG-simulations-of-polymers-and-bacterial-outer-membrane
